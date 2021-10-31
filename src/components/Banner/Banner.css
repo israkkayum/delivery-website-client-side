@@ -1,0 +1,39 @@
+.banner-img img{
+    margin: 100px 30px 50px 50px;
+}
+
+.banner-title h1{
+    margin: 0px 50px;
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.banner-text {
+    margin: 20px 50px;
+    color: white;
+    font-size: 20px;
+}
+
+.banner-input {
+    margin: 30px 50px;
+}
+
+.banner-input {
+    width: 75%;
+}
+
+.banner-input Button{
+    font-weight: 700;
+}
+
+.popular-restaurant{
+    margin: 30px 50px;
+    color: white;
+}
+
+.popular-restaurant img{
+    height: 80px;
+    width: 80px;
+    margin: 5px;
+}

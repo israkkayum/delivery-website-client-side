@@ -1,0 +1,15 @@
+.card-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-footer-half{
+    display: flex;
+    align-items: center;
+}
+
+.text-time{
+    color: #990000;
+    font-weight: 700;
+}

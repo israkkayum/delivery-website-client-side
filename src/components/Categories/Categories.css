@@ -1,0 +1,19 @@
+.small-title{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: 700;
+    color: #ffc107;
+}
+
+.big-title{
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+
+.title-border{
+    width: 200px;
+    margin-left: 43%;
+    border-bottom: 5px solid #ffc107;
+    margin-bottom: 50px;
+}

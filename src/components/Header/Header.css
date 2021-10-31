@@ -1,0 +1,13 @@
+.header-navbar{
+    border: 2px solid yellow;
+}
+
+.logo img{
+    height: 80px;
+    width: 200px;
+}
+
+.header-container {
+    font-size: 20px;
+    font-weight: 700;
+}
